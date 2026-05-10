@@ -158,7 +158,7 @@ curl -X POST http://127.0.0.1:8000/predict \
 
 ---
 
-## 📓 Notebooks
+## Notebooks
 
 Les notebooks sont dans le dossier `notebooks/`. Lance Jupyter pour les ouvrir :
 
